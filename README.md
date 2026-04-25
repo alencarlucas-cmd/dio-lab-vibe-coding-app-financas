@@ -1,4 +1,4 @@
-# 💸 App Finanças Pessoais com Vibe Coding do Lucas Felix Alencar
+# 💸 Papo de Grana — App de Finanças com IA Conversacional ( Lucas Felix Alencar )
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -75,7 +75,14 @@ Usuários desistem de controlar finanças porque apps exigem muita entrada manua
 <img width="705" height="944" alt="image" src="https://github.com/user-attachments/assets/3b95a293-22de-402f-a8bc-76476e8206d8" />
 <img width="710" height="946" alt="image" src="https://github.com/user-attachments/assets/ff07ad20-008d-4ad1-b77b-f07bd6b51dcd" />
 
-#Link do app:  https://grana-papo.lovable.app/
+## 🚀 Demo do App
+
+🔗 Acesse aqui: https://grana-papo.lovable.app/
+
+💡 Teste conversando:
+- "gastei 50 no mercado"
+- "quanto posso gastar hoje?"
+- "criar meta de economia"
 
 # Resumo
 
